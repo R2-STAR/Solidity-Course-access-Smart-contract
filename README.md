@@ -1,4 +1,4 @@
-# Solidity Smart Contract
+# Solidity Course access Smart contract
 
 Here we build our own Solidity contract to accept payments from a user. The project contains
  - A simple contract that accepts payments. It emits events anytime a user makes a payment
